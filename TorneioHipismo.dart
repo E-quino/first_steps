@@ -1,4 +1,4 @@
-import 'inscrito.dart';
+import 'Inscrito.dart';
 import 'dart:io';
 
 class TorneioHipismo {
